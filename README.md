@@ -61,4 +61,4 @@ write.csv(mysurvey, file = "anonymous_survey.csv", row.names = FALSE)
 - If you encounter issues, check your Qualtrics API settings and ensure your API key is valid.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
