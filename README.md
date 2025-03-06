@@ -22,7 +22,7 @@ library(qualtRics)
 
 # Enter API info: API Key and Base URL
 qualtrics_api_credentials(api_key = "YOURAPIKEYHERE",
-                          base_url = "ca1.qualtrics.com/")
+                          base_url = "YOURBASEURLHERE) #mine is ca1.qualtrics.com/ for example
 ```
 
 ### 2. Fetch Available Surveys
